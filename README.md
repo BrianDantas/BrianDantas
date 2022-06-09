@@ -1,4 +1,4 @@
-# Desenvolvedor - JAVA :tada:
+# Desenvolvedor - FullStack :tada:
 
 #### :mortar_board: Formado em Engenharia da Computação, 
 ####  :open_file_folder: Acesso ao portfólio em GITHub 

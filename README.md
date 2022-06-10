@@ -1,6 +1,6 @@
 <h2>Olá sou Brian Pelegrini!!! </h2>
 
-Engenharia da Computação 🎓 <br>
+Engenheiro da Computação 🎓 <br>
 Desenvolvedor Full Stack ✌️
 <br>
 <div>
@@ -15,7 +15,8 @@ Desenvolvedor Full Stack ✌️
 </div>
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briandantas&show_icons=true&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briandantas&layout=compact)](https://github.com/briandantas/github-readme-stats)
+  
 Aqui no GitHUB você pode verificar meus projetos!
 <br/><br/><br/>
 
